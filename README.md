@@ -55,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sivapranaydakamari/LeetCode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0844-backspace-string-compare](https://github.com/sivapranaydakamari/LeetCode/tree/main/0844-backspace-string-compare/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -80,8 +81,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0682-baseball-game](https://github.com/sivapranaydakamari/LeetCode/tree/main/0682-baseball-game/) | Easy |
+| [0844-backspace-string-compare](https://github.com/sivapranaydakamari/LeetCode/tree/main/0844-backspace-string-compare/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0682-baseball-game](https://github.com/sivapranaydakamari/LeetCode/tree/main/0682-baseball-game/) | Easy |
+| [0844-backspace-string-compare](https://github.com/sivapranaydakamari/LeetCode/tree/main/0844-backspace-string-compare/) | Easy |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0844-backspace-string-compare](https://github.com/sivapranaydakamari/LeetCode/tree/main/0844-backspace-string-compare/) | Easy |
 <!---LeetCode Topics End-->
