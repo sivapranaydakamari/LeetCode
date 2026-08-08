@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0540-single-element-in-a-sorted-array](https://github.com/sivapranaydakamari/LeetCode/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/sivapranaydakamari/LeetCode/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0682-baseball-game](https://github.com/sivapranaydakamari/LeetCode/tree/main/0682-baseball-game/) | Easy |
+| [0735-asteroid-collision](https://github.com/sivapranaydakamari/LeetCode/tree/main/0735-asteroid-collision/) | Medium |
 | [0739-daily-temperatures](https://github.com/sivapranaydakamari/LeetCode/tree/main/0739-daily-temperatures/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/sivapranaydakamari/LeetCode/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0881-boats-to-save-people](https://github.com/sivapranaydakamari/LeetCode/tree/main/0881-boats-to-save-people/) | Medium |
@@ -117,6 +118,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/sivapranaydakamari/LeetCode/tree/main/0020-valid-parentheses/) | Easy |
 | [0682-baseball-game](https://github.com/sivapranaydakamari/LeetCode/tree/main/0682-baseball-game/) | Easy |
+| [0735-asteroid-collision](https://github.com/sivapranaydakamari/LeetCode/tree/main/0735-asteroid-collision/) | Medium |
 | [0739-daily-temperatures](https://github.com/sivapranaydakamari/LeetCode/tree/main/0739-daily-temperatures/) | Medium |
 | [0844-backspace-string-compare](https://github.com/sivapranaydakamari/LeetCode/tree/main/0844-backspace-string-compare/) | Easy |
 | [0901-online-stock-span](https://github.com/sivapranaydakamari/LeetCode/tree/main/0901-online-stock-span/) | Medium |
@@ -126,6 +128,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0682-baseball-game](https://github.com/sivapranaydakamari/LeetCode/tree/main/0682-baseball-game/) | Easy |
+| [0735-asteroid-collision](https://github.com/sivapranaydakamari/LeetCode/tree/main/0735-asteroid-collision/) | Medium |
 | [0844-backspace-string-compare](https://github.com/sivapranaydakamari/LeetCode/tree/main/0844-backspace-string-compare/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
