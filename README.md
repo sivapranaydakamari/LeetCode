@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0219-contains-duplicate-ii](https://github.com/sivapranaydakamari/LeetCode/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0410-split-array-largest-sum](https://github.com/sivapranaydakamari/LeetCode/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0540-single-element-in-a-sorted-array](https://github.com/sivapranaydakamari/LeetCode/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
+| [0658-find-k-closest-elements](https://github.com/sivapranaydakamari/LeetCode/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0682-baseball-game](https://github.com/sivapranaydakamari/LeetCode/tree/main/0682-baseball-game/) | Easy |
 | [0739-daily-temperatures](https://github.com/sivapranaydakamari/LeetCode/tree/main/0739-daily-temperatures/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/sivapranaydakamari/LeetCode/tree/main/0875-koko-eating-bananas/) | Medium |
@@ -35,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0658-find-k-closest-elements](https://github.com/sivapranaydakamari/LeetCode/tree/main/0658-find-k-closest-elements/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/sivapranaydakamari/LeetCode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
@@ -52,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0209-minimum-size-subarray-sum](https://github.com/sivapranaydakamari/LeetCode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/sivapranaydakamari/LeetCode/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0540-single-element-in-a-sorted-array](https://github.com/sivapranaydakamari/LeetCode/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
+| [0658-find-k-closest-elements](https://github.com/sivapranaydakamari/LeetCode/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/sivapranaydakamari/LeetCode/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/sivapranaydakamari/LeetCode/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/sivapranaydakamari/LeetCode/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
@@ -75,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0003-longest-substring-without-repeating-characters](https://github.com/sivapranaydakamari/LeetCode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/sivapranaydakamari/LeetCode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/sivapranaydakamari/LeetCode/tree/main/0219-contains-duplicate-ii/) | Easy |
+| [0658-find-k-closest-elements](https://github.com/sivapranaydakamari/LeetCode/tree/main/0658-find-k-closest-elements/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -98,6 +102,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0015-3sum](https://github.com/sivapranaydakamari/LeetCode/tree/main/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/sivapranaydakamari/LeetCode/tree/main/0018-4sum/) | Medium |
+| [0658-find-k-closest-elements](https://github.com/sivapranaydakamari/LeetCode/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0881-boats-to-save-people](https://github.com/sivapranaydakamari/LeetCode/tree/main/0881-boats-to-save-people/) | Medium |
 | [1552-magnetic-force-between-two-balls](https://github.com/sivapranaydakamari/LeetCode/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
 ## Stack
@@ -119,6 +124,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0015-3sum](https://github.com/sivapranaydakamari/LeetCode/tree/main/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/sivapranaydakamari/LeetCode/tree/main/0018-4sum/) | Medium |
+| [0658-find-k-closest-elements](https://github.com/sivapranaydakamari/LeetCode/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0844-backspace-string-compare](https://github.com/sivapranaydakamari/LeetCode/tree/main/0844-backspace-string-compare/) | Easy |
 | [0881-boats-to-save-people](https://github.com/sivapranaydakamari/LeetCode/tree/main/0881-boats-to-save-people/) | Medium |
 ## Math
