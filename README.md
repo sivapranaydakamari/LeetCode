@@ -117,6 +117,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/sivapranaydakamari/LeetCode/tree/main/0020-valid-parentheses/) | Easy |
+| [0155-min-stack](https://github.com/sivapranaydakamari/LeetCode/tree/main/0155-min-stack/) | Medium |
 | [0232-implement-queue-using-stacks](https://github.com/sivapranaydakamari/LeetCode/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0682-baseball-game](https://github.com/sivapranaydakamari/LeetCode/tree/main/0682-baseball-game/) | Easy |
 | [0735-asteroid-collision](https://github.com/sivapranaydakamari/LeetCode/tree/main/0735-asteroid-collision/) | Medium |
@@ -156,6 +157,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0155-min-stack](https://github.com/sivapranaydakamari/LeetCode/tree/main/0155-min-stack/) | Medium |
 | [0232-implement-queue-using-stacks](https://github.com/sivapranaydakamari/LeetCode/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0901-online-stock-span](https://github.com/sivapranaydakamari/LeetCode/tree/main/0901-online-stock-span/) | Medium |
 ## Data Stream
