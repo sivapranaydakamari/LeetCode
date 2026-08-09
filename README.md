@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0033-search-in-rotated-sorted-array](https://github.com/sivapranaydakamari/LeetCode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0063-unique-paths-ii](https://github.com/sivapranaydakamari/LeetCode/tree/main/0063-unique-paths-ii/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sivapranaydakamari/LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0150-evaluate-reverse-polish-notation](https://github.com/sivapranaydakamari/LeetCode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/sivapranaydakamari/LeetCode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/sivapranaydakamari/LeetCode/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0239-sliding-window-maximum](https://github.com/sivapranaydakamari/LeetCode/tree/main/0239-sliding-window-maximum/) | Hard |
@@ -117,6 +118,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/sivapranaydakamari/LeetCode/tree/main/0020-valid-parentheses/) | Easy |
+| [0150-evaluate-reverse-polish-notation](https://github.com/sivapranaydakamari/LeetCode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0155-min-stack](https://github.com/sivapranaydakamari/LeetCode/tree/main/0155-min-stack/) | Medium |
 | [0232-implement-queue-using-stacks](https://github.com/sivapranaydakamari/LeetCode/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0682-baseball-game](https://github.com/sivapranaydakamari/LeetCode/tree/main/0682-baseball-game/) | Easy |
@@ -145,6 +147,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0062-unique-paths](https://github.com/sivapranaydakamari/LeetCode/tree/main/0062-unique-paths/) | Medium |
+| [0150-evaluate-reverse-polish-notation](https://github.com/sivapranaydakamari/LeetCode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |
