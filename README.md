@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0015-3sum](https://github.com/sivapranaydakamari/LeetCode/tree/main/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/sivapranaydakamari/LeetCode/tree/main/0018-4sum/) | Medium |
 | [0033-search-in-rotated-sorted-array](https://github.com/sivapranaydakamari/LeetCode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
+| [0035-search-insert-position](https://github.com/sivapranaydakamari/LeetCode/tree/main/0035-search-insert-position/) | Easy |
 | [0063-unique-paths-ii](https://github.com/sivapranaydakamari/LeetCode/tree/main/0063-unique-paths-ii/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sivapranaydakamari/LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sivapranaydakamari/LeetCode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
@@ -56,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/sivapranaydakamari/LeetCode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
+| [0035-search-insert-position](https://github.com/sivapranaydakamari/LeetCode/tree/main/0035-search-insert-position/) | Easy |
 | [0209-minimum-size-subarray-sum](https://github.com/sivapranaydakamari/LeetCode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/sivapranaydakamari/LeetCode/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0540-single-element-in-a-sorted-array](https://github.com/sivapranaydakamari/LeetCode/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
