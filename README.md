@@ -29,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/sivapranaydakamari/LeetCode/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1552-magnetic-force-between-two-balls](https://github.com/sivapranaydakamari/LeetCode/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/sivapranaydakamari/LeetCode/tree/main/2064-minimized-maximum-of-products-distributed-to-any-store/) | Medium |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sivapranaydakamari/LeetCode/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/sivapranaydakamari/LeetCode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -74,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0003-longest-substring-without-repeating-characters](https://github.com/sivapranaydakamari/LeetCode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/sivapranaydakamari/LeetCode/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0567-permutation-in-string](https://github.com/sivapranaydakamari/LeetCode/tree/main/0567-permutation-in-string/) | Medium |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sivapranaydakamari/LeetCode/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -123,6 +125,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0853-car-fleet](https://github.com/sivapranaydakamari/LeetCode/tree/main/0853-car-fleet/) | Medium |
 | [0881-boats-to-save-people](https://github.com/sivapranaydakamari/LeetCode/tree/main/0881-boats-to-save-people/) | Medium |
 | [1552-magnetic-force-between-two-balls](https://github.com/sivapranaydakamari/LeetCode/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sivapranaydakamari/LeetCode/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
