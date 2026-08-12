@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0063-unique-paths-ii](https://github.com/sivapranaydakamari/LeetCode/tree/main/0063-unique-paths-ii/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sivapranaydakamari/LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sivapranaydakamari/LeetCode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/sivapranaydakamari/LeetCode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/sivapranaydakamari/LeetCode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/sivapranaydakamari/LeetCode/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0239-sliding-window-maximum](https://github.com/sivapranaydakamari/LeetCode/tree/main/0239-sliding-window-maximum/) | Hard |
@@ -60,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0033-search-in-rotated-sorted-array](https://github.com/sivapranaydakamari/LeetCode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/sivapranaydakamari/LeetCode/tree/main/0035-search-insert-position/) | Easy |
 | [0069-sqrtx](https://github.com/sivapranaydakamari/LeetCode/tree/main/0069-sqrtx/) | Easy |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/sivapranaydakamari/LeetCode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/sivapranaydakamari/LeetCode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0374-guess-number-higher-or-lower](https://github.com/sivapranaydakamari/LeetCode/tree/main/0374-guess-number-higher-or-lower/) | Easy |
 | [0410-split-array-largest-sum](https://github.com/sivapranaydakamari/LeetCode/tree/main/0410-split-array-largest-sum/) | Hard |
