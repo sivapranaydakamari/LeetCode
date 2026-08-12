@@ -59,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/sivapranaydakamari/LeetCode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/sivapranaydakamari/LeetCode/tree/main/0035-search-insert-position/) | Easy |
+| [0069-sqrtx](https://github.com/sivapranaydakamari/LeetCode/tree/main/0069-sqrtx/) | Easy |
 | [0209-minimum-size-subarray-sum](https://github.com/sivapranaydakamari/LeetCode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0374-guess-number-higher-or-lower](https://github.com/sivapranaydakamari/LeetCode/tree/main/0374-guess-number-higher-or-lower/) | Easy |
 | [0410-split-array-largest-sum](https://github.com/sivapranaydakamari/LeetCode/tree/main/0410-split-array-largest-sum/) | Hard |
@@ -162,6 +163,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0062-unique-paths](https://github.com/sivapranaydakamari/LeetCode/tree/main/0062-unique-paths/) | Medium |
+| [0069-sqrtx](https://github.com/sivapranaydakamari/LeetCode/tree/main/0069-sqrtx/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sivapranaydakamari/LeetCode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 ## Combinatorics
 | Problem Name | Difficulty |
@@ -217,4 +219,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/sivapranaydakamari/LeetCode/tree/main/0374-guess-number-higher-or-lower/) | Easy |
+## Newton's Method
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0069-sqrtx](https://github.com/sivapranaydakamari/LeetCode/tree/main/0069-sqrtx/) | Easy |
 <!---LeetCode Topics End-->
