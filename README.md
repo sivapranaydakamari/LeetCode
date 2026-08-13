@@ -158,6 +158,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0015-3sum](https://github.com/sivapranaydakamari/LeetCode/tree/main/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/sivapranaydakamari/LeetCode/tree/main/0018-4sum/) | Medium |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/sivapranaydakamari/LeetCode/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0143-reorder-list](https://github.com/sivapranaydakamari/LeetCode/tree/main/0143-reorder-list/) | Medium |
 | [0567-permutation-in-string](https://github.com/sivapranaydakamari/LeetCode/tree/main/0567-permutation-in-string/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/sivapranaydakamari/LeetCode/tree/main/0658-find-k-closest-elements/) | Medium |
@@ -233,6 +234,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/sivapranaydakamari/LeetCode/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/sivapranaydakamari/LeetCode/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0143-reorder-list](https://github.com/sivapranaydakamari/LeetCode/tree/main/0143-reorder-list/) | Medium |
 | [0206-reverse-linked-list](https://github.com/sivapranaydakamari/LeetCode/tree/main/0206-reverse-linked-list/) | Easy |
