@@ -216,6 +216,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0206-reverse-linked-list](https://github.com/sivapranaydakamari/LeetCode/tree/main/0206-reverse-linked-list/) | Easy |
 | [0394-decode-string](https://github.com/sivapranaydakamari/LeetCode/tree/main/0394-decode-string/) | Medium |
 ## Interactive
 | Problem Name | Difficulty |
@@ -225,4 +226,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0069-sqrtx](https://github.com/sivapranaydakamari/LeetCode/tree/main/0069-sqrtx/) | Easy |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0206-reverse-linked-list](https://github.com/sivapranaydakamari/LeetCode/tree/main/0206-reverse-linked-list/) | Easy |
 <!---LeetCode Topics End-->
