@@ -82,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0141-linked-list-cycle](https://github.com/sivapranaydakamari/LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0146-lru-cache](https://github.com/sivapranaydakamari/LeetCode/tree/main/0146-lru-cache/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/sivapranaydakamari/LeetCode/tree/main/0219-contains-duplicate-ii/) | Easy |
+| [0460-lfu-cache](https://github.com/sivapranaydakamari/LeetCode/tree/main/0460-lfu-cache/) | Hard |
 | [0567-permutation-in-string](https://github.com/sivapranaydakamari/LeetCode/tree/main/0567-permutation-in-string/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sivapranaydakamari/LeetCode/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 ## String
@@ -194,6 +195,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0146-lru-cache](https://github.com/sivapranaydakamari/LeetCode/tree/main/0146-lru-cache/) | Medium |
 | [0155-min-stack](https://github.com/sivapranaydakamari/LeetCode/tree/main/0155-min-stack/) | Medium |
 | [0232-implement-queue-using-stacks](https://github.com/sivapranaydakamari/LeetCode/tree/main/0232-implement-queue-using-stacks/) | Easy |
+| [0460-lfu-cache](https://github.com/sivapranaydakamari/LeetCode/tree/main/0460-lfu-cache/) | Hard |
 | [0901-online-stock-span](https://github.com/sivapranaydakamari/LeetCode/tree/main/0901-online-stock-span/) | Medium |
 ## Data Stream
 | Problem Name | Difficulty |
@@ -253,6 +255,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0143-reorder-list](https://github.com/sivapranaydakamari/LeetCode/tree/main/0143-reorder-list/) | Medium |
 | [0146-lru-cache](https://github.com/sivapranaydakamari/LeetCode/tree/main/0146-lru-cache/) | Medium |
 | [0206-reverse-linked-list](https://github.com/sivapranaydakamari/LeetCode/tree/main/0206-reverse-linked-list/) | Easy |
+| [0460-lfu-cache](https://github.com/sivapranaydakamari/LeetCode/tree/main/0460-lfu-cache/) | Hard |
 ## Floyd's Cycle Finding Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -270,4 +273,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0146-lru-cache](https://github.com/sivapranaydakamari/LeetCode/tree/main/0146-lru-cache/) | Medium |
+| [0460-lfu-cache](https://github.com/sivapranaydakamari/LeetCode/tree/main/0460-lfu-cache/) | Hard |
 <!---LeetCode Topics End-->
