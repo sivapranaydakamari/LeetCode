@@ -80,6 +80,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sivapranaydakamari/LeetCode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/sivapranaydakamari/LeetCode/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0138-copy-list-with-random-pointer](https://github.com/sivapranaydakamari/LeetCode/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0141-linked-list-cycle](https://github.com/sivapranaydakamari/LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0146-lru-cache](https://github.com/sivapranaydakamari/LeetCode/tree/main/0146-lru-cache/) | Medium |
@@ -91,6 +92,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sivapranaydakamari/LeetCode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/sivapranaydakamari/LeetCode/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0020-valid-parentheses](https://github.com/sivapranaydakamari/LeetCode/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/sivapranaydakamari/LeetCode/tree/main/0022-generate-parentheses/) | Medium |
 | [0071-simplify-path](https://github.com/sivapranaydakamari/LeetCode/tree/main/0071-simplify-path/) | Medium |
@@ -228,6 +230,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/sivapranaydakamari/LeetCode/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0022-generate-parentheses](https://github.com/sivapranaydakamari/LeetCode/tree/main/0022-generate-parentheses/) | Medium |
 | [0078-subsets](https://github.com/sivapranaydakamari/LeetCode/tree/main/0078-subsets/) | Medium |
 ## Recursion
