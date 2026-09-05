@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0209-minimum-size-subarray-sum](https://github.com/sivapranaydakamari/LeetCode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/sivapranaydakamari/LeetCode/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0239-sliding-window-maximum](https://github.com/sivapranaydakamari/LeetCode/tree/main/0239-sliding-window-maximum/) | Hard |
+| [0240-search-a-2d-matrix-ii](https://github.com/sivapranaydakamari/LeetCode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/sivapranaydakamari/LeetCode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/sivapranaydakamari/LeetCode/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0540-single-element-in-a-sorted-array](https://github.com/sivapranaydakamari/LeetCode/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
@@ -55,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0063-unique-paths-ii](https://github.com/sivapranaydakamari/LeetCode/tree/main/0063-unique-paths-ii/) | Medium |
+| [0240-search-a-2d-matrix-ii](https://github.com/sivapranaydakamari/LeetCode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/sivapranaydakamari/LeetCode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 ## Shortest Path
 | Problem Name | Difficulty |
@@ -68,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0069-sqrtx](https://github.com/sivapranaydakamari/LeetCode/tree/main/0069-sqrtx/) | Easy |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sivapranaydakamari/LeetCode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/sivapranaydakamari/LeetCode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0240-search-a-2d-matrix-ii](https://github.com/sivapranaydakamari/LeetCode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/sivapranaydakamari/LeetCode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0374-guess-number-higher-or-lower](https://github.com/sivapranaydakamari/LeetCode/tree/main/0374-guess-number-higher-or-lower/) | Easy |
 | [0410-split-array-largest-sum](https://github.com/sivapranaydakamari/LeetCode/tree/main/0410-split-array-largest-sum/) | Hard |
@@ -290,6 +293,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/sivapranaydakamari/LeetCode/tree/main/0023-merge-k-sorted-lists/) | Hard |
+| [0240-search-a-2d-matrix-ii](https://github.com/sivapranaydakamari/LeetCode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
