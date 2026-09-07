@@ -34,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/sivapranaydakamari/LeetCode/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/sivapranaydakamari/LeetCode/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1552-magnetic-force-between-two-balls](https://github.com/sivapranaydakamari/LeetCode/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/sivapranaydakamari/LeetCode/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/sivapranaydakamari/LeetCode/tree/main/2064-minimized-maximum-of-products-distributed-to-any-store/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sivapranaydakamari/LeetCode/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/sivapranaydakamari/LeetCode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
@@ -196,10 +197,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0062-unique-paths](https://github.com/sivapranaydakamari/LeetCode/tree/main/0062-unique-paths/) | Medium |
 | [0069-sqrtx](https://github.com/sivapranaydakamari/LeetCode/tree/main/0069-sqrtx/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sivapranaydakamari/LeetCode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/sivapranaydakamari/LeetCode/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0062-unique-paths](https://github.com/sivapranaydakamari/LeetCode/tree/main/0062-unique-paths/) | Medium |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/sivapranaydakamari/LeetCode/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -247,6 +250,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0022-generate-parentheses](https://github.com/sivapranaydakamari/LeetCode/tree/main/0022-generate-parentheses/) | Medium |
 | [0039-combination-sum](https://github.com/sivapranaydakamari/LeetCode/tree/main/0039-combination-sum/) | Medium |
 | [0078-subsets](https://github.com/sivapranaydakamari/LeetCode/tree/main/0078-subsets/) | Medium |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/sivapranaydakamari/LeetCode/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -289,6 +293,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0078-subsets](https://github.com/sivapranaydakamari/LeetCode/tree/main/0078-subsets/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/sivapranaydakamari/LeetCode/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/sivapranaydakamari/LeetCode/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 ## Pigeonhole Principle
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -311,4 +316,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/sivapranaydakamari/LeetCode/tree/main/0023-merge-k-sorted-lists/) | Hard |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/sivapranaydakamari/LeetCode/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 <!---LeetCode Topics End-->
