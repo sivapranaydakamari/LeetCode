@@ -249,6 +249,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sivapranaydakamari/LeetCode/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0022-generate-parentheses](https://github.com/sivapranaydakamari/LeetCode/tree/main/0022-generate-parentheses/) | Medium |
 | [0039-combination-sum](https://github.com/sivapranaydakamari/LeetCode/tree/main/0039-combination-sum/) | Medium |
+| [0077-combinations](https://github.com/sivapranaydakamari/LeetCode/tree/main/0077-combinations/) | Medium |
 | [0078-subsets](https://github.com/sivapranaydakamari/LeetCode/tree/main/0078-subsets/) | Medium |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/sivapranaydakamari/LeetCode/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 ## Recursion
