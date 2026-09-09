@@ -158,6 +158,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/sivapranaydakamari/LeetCode/tree/main/0020-valid-parentheses/) | Easy |
 | [0071-simplify-path](https://github.com/sivapranaydakamari/LeetCode/tree/main/0071-simplify-path/) | Medium |
+| [0094-binary-tree-inorder-traversal](https://github.com/sivapranaydakamari/LeetCode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0143-reorder-list](https://github.com/sivapranaydakamari/LeetCode/tree/main/0143-reorder-list/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sivapranaydakamari/LeetCode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0155-min-stack](https://github.com/sivapranaydakamari/LeetCode/tree/main/0155-min-stack/) | Medium |
@@ -321,4 +322,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/sivapranaydakamari/LeetCode/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/sivapranaydakamari/LeetCode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/sivapranaydakamari/LeetCode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/sivapranaydakamari/LeetCode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 <!---LeetCode Topics End-->
