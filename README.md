@@ -43,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/sivapranaydakamari/LeetCode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0199-binary-tree-right-side-view](https://github.com/sivapranaydakamari/LeetCode/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0226-invert-binary-tree](https://github.com/sivapranaydakamari/LeetCode/tree/main/0226-invert-binary-tree/) | Easy |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/sivapranaydakamari/LeetCode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 ## Graph Theory
@@ -334,6 +335,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0110-balanced-binary-tree](https://github.com/sivapranaydakamari/LeetCode/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/sivapranaydakamari/LeetCode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/sivapranaydakamari/LeetCode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0199-binary-tree-right-side-view](https://github.com/sivapranaydakamari/LeetCode/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0226-invert-binary-tree](https://github.com/sivapranaydakamari/LeetCode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/sivapranaydakamari/LeetCode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/sivapranaydakamari/LeetCode/tree/main/0572-subtree-of-another-tree/) | Easy |
@@ -345,6 +347,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0110-balanced-binary-tree](https://github.com/sivapranaydakamari/LeetCode/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/sivapranaydakamari/LeetCode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/sivapranaydakamari/LeetCode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0199-binary-tree-right-side-view](https://github.com/sivapranaydakamari/LeetCode/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0226-invert-binary-tree](https://github.com/sivapranaydakamari/LeetCode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/sivapranaydakamari/LeetCode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/sivapranaydakamari/LeetCode/tree/main/0572-subtree-of-another-tree/) | Easy |
@@ -356,6 +359,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0110-balanced-binary-tree](https://github.com/sivapranaydakamari/LeetCode/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/sivapranaydakamari/LeetCode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/sivapranaydakamari/LeetCode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0199-binary-tree-right-side-view](https://github.com/sivapranaydakamari/LeetCode/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0226-invert-binary-tree](https://github.com/sivapranaydakamari/LeetCode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/sivapranaydakamari/LeetCode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/sivapranaydakamari/LeetCode/tree/main/0572-subtree-of-another-tree/) | Easy |
