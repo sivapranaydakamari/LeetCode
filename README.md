@@ -32,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0875-koko-eating-bananas](https://github.com/sivapranaydakamari/LeetCode/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0881-boats-to-save-people](https://github.com/sivapranaydakamari/LeetCode/tree/main/0881-boats-to-save-people/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/sivapranaydakamari/LeetCode/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
+| [1091-shortest-path-in-binary-matrix](https://github.com/sivapranaydakamari/LeetCode/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/sivapranaydakamari/LeetCode/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1552-magnetic-force-between-two-balls](https://github.com/sivapranaydakamari/LeetCode/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/sivapranaydakamari/LeetCode/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
@@ -45,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0104-maximum-depth-of-binary-tree](https://github.com/sivapranaydakamari/LeetCode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/sivapranaydakamari/LeetCode/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0226-invert-binary-tree](https://github.com/sivapranaydakamari/LeetCode/tree/main/0226-invert-binary-tree/) | Easy |
+| [1091-shortest-path-in-binary-matrix](https://github.com/sivapranaydakamari/LeetCode/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/sivapranaydakamari/LeetCode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
@@ -62,6 +64,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0063-unique-paths-ii](https://github.com/sivapranaydakamari/LeetCode/tree/main/0063-unique-paths-ii/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/sivapranaydakamari/LeetCode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
+| [1091-shortest-path-in-binary-matrix](https://github.com/sivapranaydakamari/LeetCode/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/sivapranaydakamari/LeetCode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 ## Shortest Path
 | Problem Name | Difficulty |
