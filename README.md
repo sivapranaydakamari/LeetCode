@@ -47,12 +47,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0199-binary-tree-right-side-view](https://github.com/sivapranaydakamari/LeetCode/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0226-invert-binary-tree](https://github.com/sivapranaydakamari/LeetCode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0547-number-of-provinces](https://github.com/sivapranaydakamari/LeetCode/tree/main/0547-number-of-provinces/) | Medium |
+| [0684-redundant-connection](https://github.com/sivapranaydakamari/LeetCode/tree/main/0684-redundant-connection/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/sivapranaydakamari/LeetCode/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/sivapranaydakamari/LeetCode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0547-number-of-provinces](https://github.com/sivapranaydakamari/LeetCode/tree/main/0547-number-of-provinces/) | Medium |
+| [0684-redundant-connection](https://github.com/sivapranaydakamari/LeetCode/tree/main/0684-redundant-connection/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/sivapranaydakamari/LeetCode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
@@ -357,6 +359,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0543-diameter-of-binary-tree](https://github.com/sivapranaydakamari/LeetCode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0547-number-of-provinces](https://github.com/sivapranaydakamari/LeetCode/tree/main/0547-number-of-provinces/) | Medium |
 | [0572-subtree-of-another-tree](https://github.com/sivapranaydakamari/LeetCode/tree/main/0572-subtree-of-another-tree/) | Easy |
+| [0684-redundant-connection](https://github.com/sivapranaydakamari/LeetCode/tree/main/0684-redundant-connection/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -385,4 +388,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0547-number-of-provinces](https://github.com/sivapranaydakamari/LeetCode/tree/main/0547-number-of-provinces/) | Medium |
+| [0684-redundant-connection](https://github.com/sivapranaydakamari/LeetCode/tree/main/0684-redundant-connection/) | Medium |
 <!---LeetCode Topics End-->
