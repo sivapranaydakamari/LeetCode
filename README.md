@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0540-single-element-in-a-sorted-array](https://github.com/sivapranaydakamari/LeetCode/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/sivapranaydakamari/LeetCode/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0682-baseball-game](https://github.com/sivapranaydakamari/LeetCode/tree/main/0682-baseball-game/) | Easy |
+| [0721-accounts-merge](https://github.com/sivapranaydakamari/LeetCode/tree/main/0721-accounts-merge/) | Medium |
 | [0735-asteroid-collision](https://github.com/sivapranaydakamari/LeetCode/tree/main/0735-asteroid-collision/) | Medium |
 | [0739-daily-temperatures](https://github.com/sivapranaydakamari/LeetCode/tree/main/0739-daily-temperatures/) | Medium |
 | [0853-car-fleet](https://github.com/sivapranaydakamari/LeetCode/tree/main/0853-car-fleet/) | Medium |
@@ -48,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0226-invert-binary-tree](https://github.com/sivapranaydakamari/LeetCode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0547-number-of-provinces](https://github.com/sivapranaydakamari/LeetCode/tree/main/0547-number-of-provinces/) | Medium |
 | [0684-redundant-connection](https://github.com/sivapranaydakamari/LeetCode/tree/main/0684-redundant-connection/) | Medium |
+| [0721-accounts-merge](https://github.com/sivapranaydakamari/LeetCode/tree/main/0721-accounts-merge/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/sivapranaydakamari/LeetCode/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/sivapranaydakamari/LeetCode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 ## Graph Theory
@@ -105,6 +107,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0219-contains-duplicate-ii](https://github.com/sivapranaydakamari/LeetCode/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0460-lfu-cache](https://github.com/sivapranaydakamari/LeetCode/tree/main/0460-lfu-cache/) | Hard |
 | [0567-permutation-in-string](https://github.com/sivapranaydakamari/LeetCode/tree/main/0567-permutation-in-string/) | Medium |
+| [0721-accounts-merge](https://github.com/sivapranaydakamari/LeetCode/tree/main/0721-accounts-merge/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sivapranaydakamari/LeetCode/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -118,6 +121,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0071-simplify-path](https://github.com/sivapranaydakamari/LeetCode/tree/main/0071-simplify-path/) | Medium |
 | [0394-decode-string](https://github.com/sivapranaydakamari/LeetCode/tree/main/0394-decode-string/) | Medium |
 | [0567-permutation-in-string](https://github.com/sivapranaydakamari/LeetCode/tree/main/0567-permutation-in-string/) | Medium |
+| [0721-accounts-merge](https://github.com/sivapranaydakamari/LeetCode/tree/main/0721-accounts-merge/) | Medium |
 | [0844-backspace-string-compare](https://github.com/sivapranaydakamari/LeetCode/tree/main/0844-backspace-string-compare/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/sivapranaydakamari/LeetCode/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/sivapranaydakamari/LeetCode/tree/main/1209-remove-all-adjacent-duplicates-in-string-ii/) | Medium |
@@ -159,6 +163,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0015-3sum](https://github.com/sivapranaydakamari/LeetCode/tree/main/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/sivapranaydakamari/LeetCode/tree/main/0018-4sum/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/sivapranaydakamari/LeetCode/tree/main/0658-find-k-closest-elements/) | Medium |
+| [0721-accounts-merge](https://github.com/sivapranaydakamari/LeetCode/tree/main/0721-accounts-merge/) | Medium |
 | [0853-car-fleet](https://github.com/sivapranaydakamari/LeetCode/tree/main/0853-car-fleet/) | Medium |
 | [0881-boats-to-save-people](https://github.com/sivapranaydakamari/LeetCode/tree/main/0881-boats-to-save-people/) | Medium |
 | [1552-magnetic-force-between-two-balls](https://github.com/sivapranaydakamari/LeetCode/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
@@ -360,6 +365,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0547-number-of-provinces](https://github.com/sivapranaydakamari/LeetCode/tree/main/0547-number-of-provinces/) | Medium |
 | [0572-subtree-of-another-tree](https://github.com/sivapranaydakamari/LeetCode/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0684-redundant-connection](https://github.com/sivapranaydakamari/LeetCode/tree/main/0684-redundant-connection/) | Medium |
+| [0721-accounts-merge](https://github.com/sivapranaydakamari/LeetCode/tree/main/0721-accounts-merge/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -389,4 +395,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0547-number-of-provinces](https://github.com/sivapranaydakamari/LeetCode/tree/main/0547-number-of-provinces/) | Medium |
 | [0684-redundant-connection](https://github.com/sivapranaydakamari/LeetCode/tree/main/0684-redundant-connection/) | Medium |
+| [0721-accounts-merge](https://github.com/sivapranaydakamari/LeetCode/tree/main/0721-accounts-merge/) | Medium |
 <!---LeetCode Topics End-->
