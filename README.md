@@ -125,6 +125,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0567-permutation-in-string](https://github.com/sivapranaydakamari/LeetCode/tree/main/0567-permutation-in-string/) | Medium |
 | [0721-accounts-merge](https://github.com/sivapranaydakamari/LeetCode/tree/main/0721-accounts-merge/) | Medium |
 | [0844-backspace-string-compare](https://github.com/sivapranaydakamari/LeetCode/tree/main/0844-backspace-string-compare/) | Easy |
+| [0856-score-of-parentheses](https://github.com/sivapranaydakamari/LeetCode/tree/main/0856-score-of-parentheses/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/sivapranaydakamari/LeetCode/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/sivapranaydakamari/LeetCode/tree/main/1209-remove-all-adjacent-duplicates-in-string-ii/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sivapranaydakamari/LeetCode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
@@ -192,6 +193,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0739-daily-temperatures](https://github.com/sivapranaydakamari/LeetCode/tree/main/0739-daily-temperatures/) | Medium |
 | [0844-backspace-string-compare](https://github.com/sivapranaydakamari/LeetCode/tree/main/0844-backspace-string-compare/) | Easy |
 | [0853-car-fleet](https://github.com/sivapranaydakamari/LeetCode/tree/main/0853-car-fleet/) | Medium |
+| [0856-score-of-parentheses](https://github.com/sivapranaydakamari/LeetCode/tree/main/0856-score-of-parentheses/) | Medium |
 | [0901-online-stock-span](https://github.com/sivapranaydakamari/LeetCode/tree/main/0901-online-stock-span/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/sivapranaydakamari/LeetCode/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/sivapranaydakamari/LeetCode/tree/main/1209-remove-all-adjacent-duplicates-in-string-ii/) | Medium |
@@ -269,6 +271,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0020-valid-parentheses](https://github.com/sivapranaydakamari/LeetCode/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/sivapranaydakamari/LeetCode/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/sivapranaydakamari/LeetCode/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [0856-score-of-parentheses](https://github.com/sivapranaydakamari/LeetCode/tree/main/0856-score-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sivapranaydakamari/LeetCode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
