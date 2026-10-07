@@ -123,6 +123,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0071-simplify-path](https://github.com/sivapranaydakamari/LeetCode/tree/main/0071-simplify-path/) | Medium |
 | [0394-decode-string](https://github.com/sivapranaydakamari/LeetCode/tree/main/0394-decode-string/) | Medium |
 | [0567-permutation-in-string](https://github.com/sivapranaydakamari/LeetCode/tree/main/0567-permutation-in-string/) | Medium |
+| [0678-valid-parenthesis-string](https://github.com/sivapranaydakamari/LeetCode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0721-accounts-merge](https://github.com/sivapranaydakamari/LeetCode/tree/main/0721-accounts-merge/) | Medium |
 | [0844-backspace-string-compare](https://github.com/sivapranaydakamari/LeetCode/tree/main/0844-backspace-string-compare/) | Easy |
 | [0856-score-of-parentheses](https://github.com/sivapranaydakamari/LeetCode/tree/main/0856-score-of-parentheses/) | Medium |
@@ -151,11 +152,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sivapranaydakamari/LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0410-split-array-largest-sum](https://github.com/sivapranaydakamari/LeetCode/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0416-partition-equal-subset-sum](https://github.com/sivapranaydakamari/LeetCode/tree/main/0416-partition-equal-subset-sum/) | Medium |
+| [0678-valid-parenthesis-string](https://github.com/sivapranaydakamari/LeetCode/tree/main/0678-valid-parenthesis-string/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0044-wildcard-matching](https://github.com/sivapranaydakamari/LeetCode/tree/main/0044-wildcard-matching/) | Hard |
 | [0410-split-array-largest-sum](https://github.com/sivapranaydakamari/LeetCode/tree/main/0410-split-array-largest-sum/) | Hard |
+| [0678-valid-parenthesis-string](https://github.com/sivapranaydakamari/LeetCode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0881-boats-to-save-people](https://github.com/sivapranaydakamari/LeetCode/tree/main/0881-boats-to-save-people/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/sivapranaydakamari/LeetCode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/sivapranaydakamari/LeetCode/tree/main/2064-minimized-maximum-of-products-distributed-to-any-store/) | Medium |
@@ -190,6 +193,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0155-min-stack](https://github.com/sivapranaydakamari/LeetCode/tree/main/0155-min-stack/) | Medium |
 | [0232-implement-queue-using-stacks](https://github.com/sivapranaydakamari/LeetCode/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0394-decode-string](https://github.com/sivapranaydakamari/LeetCode/tree/main/0394-decode-string/) | Medium |
+| [0678-valid-parenthesis-string](https://github.com/sivapranaydakamari/LeetCode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0682-baseball-game](https://github.com/sivapranaydakamari/LeetCode/tree/main/0682-baseball-game/) | Easy |
 | [0735-asteroid-collision](https://github.com/sivapranaydakamari/LeetCode/tree/main/0735-asteroid-collision/) | Medium |
 | [0739-daily-temperatures](https://github.com/sivapranaydakamari/LeetCode/tree/main/0739-daily-temperatures/) | Medium |
@@ -274,6 +278,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0020-valid-parentheses](https://github.com/sivapranaydakamari/LeetCode/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/sivapranaydakamari/LeetCode/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/sivapranaydakamari/LeetCode/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [0678-valid-parenthesis-string](https://github.com/sivapranaydakamari/LeetCode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0856-score-of-parentheses](https://github.com/sivapranaydakamari/LeetCode/tree/main/0856-score-of-parentheses/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/sivapranaydakamari/LeetCode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sivapranaydakamari/LeetCode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
