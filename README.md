@@ -102,6 +102,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sivapranaydakamari/LeetCode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0012-integer-to-roman](https://github.com/sivapranaydakamari/LeetCode/tree/main/0012-integer-to-roman/) | Medium |
+| [0013-roman-to-integer](https://github.com/sivapranaydakamari/LeetCode/tree/main/0013-roman-to-integer/) | Easy |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sivapranaydakamari/LeetCode/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0138-copy-list-with-random-pointer](https://github.com/sivapranaydakamari/LeetCode/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0141-linked-list-cycle](https://github.com/sivapranaydakamari/LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
@@ -117,6 +118,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0003-longest-substring-without-repeating-characters](https://github.com/sivapranaydakamari/LeetCode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0010-regular-expression-matching](https://github.com/sivapranaydakamari/LeetCode/tree/main/0010-regular-expression-matching/) | Hard |
 | [0012-integer-to-roman](https://github.com/sivapranaydakamari/LeetCode/tree/main/0012-integer-to-roman/) | Medium |
+| [0013-roman-to-integer](https://github.com/sivapranaydakamari/LeetCode/tree/main/0013-roman-to-integer/) | Easy |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sivapranaydakamari/LeetCode/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0020-valid-parentheses](https://github.com/sivapranaydakamari/LeetCode/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/sivapranaydakamari/LeetCode/tree/main/0022-generate-parentheses/) | Medium |
@@ -231,6 +233,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/sivapranaydakamari/LeetCode/tree/main/0002-add-two-numbers/) | Medium |
 | [0012-integer-to-roman](https://github.com/sivapranaydakamari/LeetCode/tree/main/0012-integer-to-roman/) | Medium |
+| [0013-roman-to-integer](https://github.com/sivapranaydakamari/LeetCode/tree/main/0013-roman-to-integer/) | Easy |
 | [0062-unique-paths](https://github.com/sivapranaydakamari/LeetCode/tree/main/0062-unique-paths/) | Medium |
 | [0069-sqrtx](https://github.com/sivapranaydakamari/LeetCode/tree/main/0069-sqrtx/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sivapranaydakamari/LeetCode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
