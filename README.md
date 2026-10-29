@@ -40,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1552-magnetic-force-between-two-balls](https://github.com/sivapranaydakamari/LeetCode/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/sivapranaydakamari/LeetCode/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/sivapranaydakamari/LeetCode/tree/main/2064-minimized-maximum-of-products-distributed-to-any-store/) | Medium |
+| [2545-sort-the-students-by-their-kth-score](https://github.com/sivapranaydakamari/LeetCode/tree/main/2545-sort-the-students-by-their-kth-score/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sivapranaydakamari/LeetCode/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3175-find-the-first-player-to-win-k-games-in-a-row](https://github.com/sivapranaydakamari/LeetCode/tree/main/3175-find-the-first-player-to-win-k-games-in-a-row/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/sivapranaydakamari/LeetCode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
@@ -75,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0063-unique-paths-ii](https://github.com/sivapranaydakamari/LeetCode/tree/main/0063-unique-paths-ii/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/sivapranaydakamari/LeetCode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/sivapranaydakamari/LeetCode/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
+| [2545-sort-the-students-by-their-kth-score](https://github.com/sivapranaydakamari/LeetCode/tree/main/2545-sort-the-students-by-their-kth-score/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/sivapranaydakamari/LeetCode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3402-minimum-operations-to-make-columns-strictly-increasing](https://github.com/sivapranaydakamari/LeetCode/tree/main/3402-minimum-operations-to-make-columns-strictly-increasing/) | Easy |
 ## Shortest Path
@@ -188,6 +190,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0853-car-fleet](https://github.com/sivapranaydakamari/LeetCode/tree/main/0853-car-fleet/) | Medium |
 | [0881-boats-to-save-people](https://github.com/sivapranaydakamari/LeetCode/tree/main/0881-boats-to-save-people/) | Medium |
 | [1552-magnetic-force-between-two-balls](https://github.com/sivapranaydakamari/LeetCode/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
+| [2545-sort-the-students-by-their-kth-score](https://github.com/sivapranaydakamari/LeetCode/tree/main/2545-sort-the-students-by-their-kth-score/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sivapranaydakamari/LeetCode/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
