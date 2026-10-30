@@ -42,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/sivapranaydakamari/LeetCode/tree/main/2064-minimized-maximum-of-products-distributed-to-any-store/) | Medium |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/sivapranaydakamari/LeetCode/tree/main/2545-sort-the-students-by-their-kth-score/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sivapranaydakamari/LeetCode/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
+| [3096-minimum-levels-to-gain-more-points](https://github.com/sivapranaydakamari/LeetCode/tree/main/3096-minimum-levels-to-gain-more-points/) | Medium |
 | [3175-find-the-first-player-to-win-k-games-in-a-row](https://github.com/sivapranaydakamari/LeetCode/tree/main/3175-find-the-first-player-to-win-k-games-in-a-row/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/sivapranaydakamari/LeetCode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3402-minimum-operations-to-make-columns-strictly-increasing](https://github.com/sivapranaydakamari/LeetCode/tree/main/3402-minimum-operations-to-make-columns-strictly-increasing/) | Easy |
@@ -179,6 +180,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/sivapranaydakamari/LeetCode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/sivapranaydakamari/LeetCode/tree/main/0410-split-array-largest-sum/) | Hard |
+| [3096-minimum-levels-to-gain-more-points](https://github.com/sivapranaydakamari/LeetCode/tree/main/3096-minimum-levels-to-gain-more-points/) | Medium |
 | [3904-smallest-stable-index-ii](https://github.com/sivapranaydakamari/LeetCode/tree/main/3904-smallest-stable-index-ii/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
