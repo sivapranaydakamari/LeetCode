@@ -43,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2545-sort-the-students-by-their-kth-score](https://github.com/sivapranaydakamari/LeetCode/tree/main/2545-sort-the-students-by-their-kth-score/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sivapranaydakamari/LeetCode/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3096-minimum-levels-to-gain-more-points](https://github.com/sivapranaydakamari/LeetCode/tree/main/3096-minimum-levels-to-gain-more-points/) | Medium |
+| [3107-minimum-operations-to-make-median-of-array-equal-to-k](https://github.com/sivapranaydakamari/LeetCode/tree/main/3107-minimum-operations-to-make-median-of-array-equal-to-k/) | Medium |
 | [3175-find-the-first-player-to-win-k-games-in-a-row](https://github.com/sivapranaydakamari/LeetCode/tree/main/3175-find-the-first-player-to-win-k-games-in-a-row/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/sivapranaydakamari/LeetCode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3402-minimum-operations-to-make-columns-strictly-increasing](https://github.com/sivapranaydakamari/LeetCode/tree/main/3402-minimum-operations-to-make-columns-strictly-increasing/) | Easy |
@@ -174,6 +175,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0881-boats-to-save-people](https://github.com/sivapranaydakamari/LeetCode/tree/main/0881-boats-to-save-people/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/sivapranaydakamari/LeetCode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/sivapranaydakamari/LeetCode/tree/main/2064-minimized-maximum-of-products-distributed-to-any-store/) | Medium |
+| [3107-minimum-operations-to-make-median-of-array-equal-to-k](https://github.com/sivapranaydakamari/LeetCode/tree/main/3107-minimum-operations-to-make-median-of-array-equal-to-k/) | Medium |
 | [3402-minimum-operations-to-make-columns-strictly-increasing](https://github.com/sivapranaydakamari/LeetCode/tree/main/3402-minimum-operations-to-make-columns-strictly-increasing/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -194,6 +196,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1552-magnetic-force-between-two-balls](https://github.com/sivapranaydakamari/LeetCode/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/sivapranaydakamari/LeetCode/tree/main/2545-sort-the-students-by-their-kth-score/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sivapranaydakamari/LeetCode/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
+| [3107-minimum-operations-to-make-median-of-array-equal-to-k](https://github.com/sivapranaydakamari/LeetCode/tree/main/3107-minimum-operations-to-make-median-of-array-equal-to-k/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
